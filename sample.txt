@@ -1,6 +1,4 @@
-public class sample {
+public class sample {	puclic void method2{		}
 	public void method1{
 	
-	}
-
-}
+	}}
