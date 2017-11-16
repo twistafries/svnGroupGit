@@ -1,3 +1,5 @@
 public class sample {
+	puclic void method2{
 	
+	}
 }
