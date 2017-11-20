@@ -1,8 +1,13 @@
-public class sample {	puclic void method2{		}
-	public void method1{
-	
+public class sample {	
+	puclic void method2{		
 	}
-	public void method3{
 
+	public void method1{
 	}
+
+	public void method3{
 	}
+
+	public void method100{
+	}
+}
